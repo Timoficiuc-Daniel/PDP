@@ -1,0 +1,25 @@
+Trying out hamilton cycle search for graph from file.. 
+found cycle in 74ms
+
+Trying out hamilton cycle search for bad graph with 50 vertices and 150 edges.. 
+didnt find cycle in 2ms
+
+Trying out hamilton cycle search for bad graph with 100 vertices and 300 edges.. 
+didnt find cycle in 3ms
+
+Trying out hamilton cycle search for good graph with 50 vertices and 151 edges.. 
+found cycle in 2ms
+
+Trying out hamilton cycle search for good graph with 100 vertices and 301 edges.. 
+found cycle in 61ms
+
+Trying out hamilton cycle search for good graph with 200 vertices and 601 edges.. 
+found cycle in 71ms
+
+Trying out hamilton cycle search for good graph with 300 vertices and 901 edges.. 
+found cycle in 115ms
+
+Trying out hamilton cycle search for good graph with 500 vertices and 1501 edges.. 
+found cycle in 260ms
+
+A

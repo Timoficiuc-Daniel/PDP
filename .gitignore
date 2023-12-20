@@ -1,0 +1,4 @@
+.gradle
+.idea
+*.bin
+lab3/build
